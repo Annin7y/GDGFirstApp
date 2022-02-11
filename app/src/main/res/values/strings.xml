@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">GDGFirstApp</string>
+    <string name="that_s_what_an_intent_does">That\'s what an intent does</string>
+    <string name="second_act_manifest">Second Activity</string>
+    <string name="take_me_to_the_site">Take me to the site</string>
+    <string name="take_me_to_the_other_activity">Take me to the other activity</string>
 </resources>
