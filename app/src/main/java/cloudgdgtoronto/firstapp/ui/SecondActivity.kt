@@ -6,9 +6,13 @@ import cloudgdgtoronto.firstapp.R
 
 class SecondActivity : AppCompatActivity()
 {
-    override fun onCreate(savedInstanceState: Bundle?) {
+    override fun onCreate(savedInstanceState: Bundle?)
+    {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_second)
+
+        val name = "Lisa"
+        var age = 20
 
     }
 }
